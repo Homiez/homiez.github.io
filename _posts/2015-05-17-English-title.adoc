@@ -1,5 +1,9 @@
-= タイトル
+= 話題のHubPressでブログをやってみようかと
 :hp-alt-title: English title
-:hp-tags: tag1,tag2,tag3
+:hp-tags: Music, React
 :hp-image: header_image.png
+
+これはなかなかいいかも。
+
+
 
