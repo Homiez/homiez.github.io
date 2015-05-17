@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "homiez",
-    "repositoryName": "homiez.github.io",
-    "branch": "master"
-  },
-  "theme": {
-    "name": "ichi"
-  }
-}
+{"meta":{"username":"homiez","repositoryName":"homiez.github.io","branch":"master"},"site":{"url":"https://homiez.github.io"},"socialnetwork":{"email":"hozu"},"theme":{"name":"ichi","url":"//homiez.github.io/themes/ichi"}}
